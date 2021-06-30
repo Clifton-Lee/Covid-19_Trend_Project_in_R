@@ -9,7 +9,7 @@ output: pdf_document
 knitr::opts_chunk$set(echo = TRUE)
 setwd("C:/Users/cliftonl/Desktop/Data Science/R/DataQuest/02. Data Structures in R")
 library(tidyverse)
-
+```
 
 ## Introduction
 
